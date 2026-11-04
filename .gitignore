@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+elo_cache.csv
+elo_history/
+squads_cache.json
+matches_*.json
+model_params.json
+.DS_Store
+.vscode/
